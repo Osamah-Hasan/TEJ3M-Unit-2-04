@@ -11,8 +11,8 @@ int blinkTime = 1000;
 
 void setup()
 {
-  pinMode (PIN_11, OUTPUT);
-  pinMode (PIN_12, OUTPUT);
+  pinMode(PIN_11, OUTPUT);
+  pinMode(PIN_12, OUTPUT);
   pinMode(PIN_13, OUTPUT);
 }
 
